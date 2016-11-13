@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#getUser {
+	margin-top: 20px;
+}
+
+#getUser li {
+	padding: 10px;
+	border-bottom: 2px solid #bbb;
+}
